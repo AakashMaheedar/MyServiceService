@@ -1,0 +1,6 @@
+com/freshworks/config/ApplicationInitializer.class
+com/freshworks/exception/ApplicationException.class
+com/freshworks/service/MyServiceService.class
+com/freshworks/repository/MyServiceRepository.class
+com/freshworks/resources/MyServiceController.class
+com/freshworks/domain/MyService.class
